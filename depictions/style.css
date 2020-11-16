@@ -39,6 +39,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-right: 10px;
 }
 
+font-family: 'Ubuntu', sans-serif;
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #ffffff;
