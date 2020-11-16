@@ -17,7 +17,7 @@ body {
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #4f89bb !important;
+    color: #51acfa !important;
     text-align: left;
 }
 .link-item:hover {
@@ -41,22 +41,22 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1f1f1f;
+        background-color: #ffffff;
         color: white;
     }
 
     .card-header {
-        background-color: #2f2f2f;
+        background-color: #d1d1d1;
     }
     .card-body {
-        background-color: #1f1f1f;
+        background-color: #ffffff;
     }
     .jumbotron {
-        background-color: #2f2f2f;
+        background-color: #ededed;
     }
 
     .list-group-item {
-        background-color: #1f1f1f;
+        background-color: #ffffff;
         border-color:  #2f2f2f;;
     }
 
