@@ -46,7 +46,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
 
     .card-header {
-        background-color: #d1d1d1;
+        background-color: #262626;
     }
     .card-body {
         background-color: #ffffff;
